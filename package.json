@@ -1,0 +1,23 @@
+{
+  "name": "netlify-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vamshi99/netlify-url.git"
+  },
+  "keywords": [],
+  "author": "BVK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vamshi99/netlify-url/issues"
+  },
+  "homepage": "https://github.com/Vamshi99/netlify-url#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
